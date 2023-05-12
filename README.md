@@ -17,9 +17,11 @@ Output ScreenShots :
 <br>
 ![Screenshot 2023-05-10 122331](https://github.com/AjayRaut1/Stock-Market-Predictor-ML-Project/assets/76767324/c8a88dfa-d979-4214-a1a1-7096bd60f0e9)
 
-<br>![Screenshot 2023-05-10 213122](https://github.com/AjayRaut1/Stock-Market-Predictor-ML-Project/assets/76767324/497436be-667d-46e5-a641-b3c561bf432a)
+<br>
+![Screenshot 2023-05-10 213122](https://github.com/AjayRaut1/Stock-Market-Predictor-ML-Project/assets/76767324/497436be-667d-46e5-a641-b3c561bf432a)
 
 <br>
 After Reducing to 5 Ephoch:
+
 <br>
 ![Screenshot 2023-05-11 150952](https://github.com/AjayRaut1/Stock-Market-Predictor-ML-Project/assets/76767324/e7b824e7-e29d-4d6d-9a7a-1746232cb26c)
