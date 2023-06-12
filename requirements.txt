@@ -7,4 +7,4 @@ pandas_datareader
 tensorflow
 streamlit
 yfinance
-sklearn
+scikit-learn
