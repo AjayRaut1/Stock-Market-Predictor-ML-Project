@@ -3,9 +3,6 @@ numpy
 matplotlib
 yfinance
 streamlit
-numpy
-pandas
-import matplotlib
 pandas_datareader
 tensorflow
 streamlit
